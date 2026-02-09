@@ -19,7 +19,7 @@ export default function CookiePolicyPage() {
           <article className="prose prose-slate max-w-none space-y-6">
             <section className="space-y-4">
               <p className="text-slate-700 leading-relaxed">
-                Welcome to StoriesByFoot ("we," "our," or "us"). This Cookie Policy explains how we use cookies and similar tracking technologies on our website <a href="https://storiesbyfoot.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">https://storiesbyfoot.com</a> (the "Website") and related online services (collectively, the "Services").
+                Welcome to Nomadic Plan ("we," "our," or "us"). This Cookie Policy explains how we use cookies and similar tracking technologies on our website <a href="https://nomadplan.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">https://nomadplan.com</a> (the "Website") and related online services (collectively, the "Services").
               </p>
               <p className="text-slate-700 leading-relaxed">
                 By accessing or using our Website, you agree to the use of cookies in accordance with this Policy. If you do not agree, you may adjust your browser settings to disable cookies; however, some features of the Website may not function properly without them.
@@ -33,7 +33,7 @@ export default function CookiePolicyPage() {
               </p>
               <ul className="space-y-2 text-slate-700 leading-relaxed list-disc list-outside pl-6">
                 <li>What cookies are;</li>
-                <li>How and why StoriesByFoot uses them;</li>
+                <li>How and why Nomadic Plan uses them;</li>
                 <li>The types of cookies we use; and</li>
                 <li>How you can control or delete them.</li>
               </ul>
@@ -55,7 +55,7 @@ export default function CookiePolicyPage() {
             <section className="space-y-4">
               <h2 className="text-2xl font-semibold text-slate-800">3. Types of Cookies We Use</h2>
               <p className="text-slate-700 leading-relaxed mb-3">
-                StoriesByFoot uses the following categories of cookies on its Website:
+                Nomadic Plan uses the following categories of cookies on its Website:
               </p>
 
               <div className="space-y-4 text-slate-700">

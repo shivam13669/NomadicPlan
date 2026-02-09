@@ -12,7 +12,7 @@ import { useToast } from "@/hooks/use-toast";
 import { FormEvent, useState, useEffect } from "react";
 
 // EmailJS Credentials
-const EMAILJS_SERVICE_ID = 'storiesbyfoot';
+const EMAILJS_SERVICE_ID = 'nomadplan';
 const EMAILJS_TEMPLATE_ID = 'template_57tfwsw';
 const EMAILJS_PUBLIC_KEY = 'JH95W_X6r4YZ6I_-0';
 
@@ -261,18 +261,18 @@ const Contact = () => {
                 <span className="ml-auto text-sm text-muted-foreground">Replies fast</span>
               </a>
 
-              <a href="mailto:contact@storiesbyfoot.com" className="flex items-start gap-3 p-3 rounded-lg bg-gradient-to-r from-white/5 to-white/3 border border-white/5 hover:shadow-lg transition">
+              <a href="mailto:contact@nomadplan.com" className="flex items-start gap-3 p-3 rounded-lg bg-gradient-to-r from-white/5 to-white/3 border border-white/5 hover:shadow-lg transition">
                 <MailIcon className="h-5 w-5 text-primary mt-1" />
                 <div>
-                  <div className="font-medium">contact@storiesbyfoot.com</div>
+                  <div className="font-medium">contact@nomadplan.com</div>
                   <div className="text-sm text-muted-foreground">General inquiries</div>
                 </div>
               </a>
 
-              <a href="mailto:storiesbyfoot@gmail.com" className="flex items-start gap-3 p-3 rounded-lg bg-gradient-to-r from-white/5 to-white/3 border border-white/5 hover:shadow-lg transition">
+              <a href="mailto:nomadplan@gmail.com" className="flex items-start gap-3 p-3 rounded-lg bg-gradient-to-r from-white/5 to-white/3 border border-white/5 hover:shadow-lg transition">
                 <MailIcon className="h-5 w-5 text-primary mt-1" />
                 <div>
-                  <div className="font-medium">storiesbyfoot@gmail.com</div>
+                  <div className="font-medium">nomadplan@gmail.com</div>
                   <div className="text-sm text-muted-foreground">Support</div>
                 </div>
               </a>
