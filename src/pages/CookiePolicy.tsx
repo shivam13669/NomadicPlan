@@ -122,7 +122,7 @@ export default function CookiePolicyPage() {
             <section className="space-y-4">
               <h2 className="text-2xl font-semibold text-slate-800">6. Third-Party Tools and Services</h2>
               <p className="text-slate-700 leading-relaxed mb-2">
-                StoriesByFoot may use trusted third-party tools, such as:
+                Nomadic Plan may use trusted third-party tools, such as:
               </p>
               <ul className="space-y-2 text-slate-700 leading-relaxed list-disc list-outside pl-6">
                 <li>Google Analytics (for usage tracking and performance insights), and</li>
