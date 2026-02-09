@@ -111,7 +111,7 @@ const jobListings = [
     location: "Remote",
     type: "Full-time",
     experience: "1-2 years",
-    description: "Be the voice of StoriesByFoot and provide exceptional support.",
+    description: "Be the voice of Nomadic Plan and provide exceptional support.",
     isFeatured: false,
     category: "Support",
     salary: "₹16,000 - ₹28,000/month",
@@ -160,7 +160,7 @@ const jobListings = [
 const teamMembers = [
   {
     name: "Nitin Mishra",
-    role: "Founder, StoriesByFoot",
+    role: "Founder, Nomadic Plan",
     bio: "Visionary explorer and adventure enthusiast who founded StoriesByFoot with a passion to create unforgettable travel experiences and build a team that shares the same spirit."
   },
   {
@@ -492,7 +492,7 @@ export default function CareersPage() {
               asChild
               className="sm:w-auto bg-white text-emerald-700 hover:bg-slate-100 font-semibold px-8"
             >
-              <a href="mailto:careerstoriesbyfoot@gmail.com">Send Resume</a>
+              <a href="mailto:careersnomadplan@gmail.com">Send Resume</a>
             </Button>
             <Button
               asChild
