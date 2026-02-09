@@ -99,7 +99,7 @@ const testimonials = [
     location: "",
     trip: "",
     quote:
-      "This was my second trip with Stories by Foot and once again, they nailed it. The Ladakh circuit was challenging but so rewarding. Our guide made sure everyone felt safe and taken care of.",
+      "This was my second trip with Nomadic Plan and once again, they nailed it. The Ladakh circuit was challenging but so rewarding. Our guide made sure everyone felt safe and taken care of.",
     image: "",
     highlight: "",
     rating: 4,
@@ -110,7 +110,7 @@ const testimonials = [
     location: "",
     trip: "",
     quote:
-      "I came solo, but I left with a family. That's what this Ladakh trip turned into. Shoutout to Stories by Foot for making it such a wholesome adventure.",
+      "I came solo, but I left with a family. That's what this Ladakh trip turned into. Shoutout to Nomadic Plan for making it such a wholesome adventure.",
     image: "",
     highlight: "",
     rating: 5,
@@ -132,7 +132,7 @@ const testimonials = [
     location: "",
     trip: "",
     quote:
-      "Nitin curated the perfect Kashmir itinerary. Peaceful shikara rides, warm Kashmiri hospitality, and stunning meadows—it was straight out of a movie. Thanks, Stories by Foot!",
+      "Nitin curated the perfect Kashmir itinerary. Peaceful shikara rides, warm Kashmiri hospitality, and stunning meadows—it was straight out of a movie. Thanks, Nomadic Plan!",
     image: "",
     highlight: "",
     rating: 5,
@@ -143,7 +143,7 @@ const testimonials = [
     location: "",
     trip: "",
     quote:
-      "Exploring Meghalaya with Stories by Foot was like walking into a dream. The double-decker bridge treks, caves, and waterfalls—everything was magical. Can't wait to travel with you guys again!",
+      "Exploring Meghalaya with Nomadic Plan was like walking into a dream. The double-decker bridge treks, caves, and waterfalls—everything was magical. Can't wait to travel with you guys again!",
     image: "",
     highlight: "",
     rating: 5,
@@ -154,7 +154,7 @@ const testimonials = [
     location: "",
     trip: "",
     quote:
-      "Kedarnath was not just a trek—it was spiritual and transformative. The guides from Stories by Foot were incredibly helpful and knowledgeable. Nitin was there checking on everyone, which made us feel safe and cared for.",
+      "Kedarnath was not just a trek—it was spiritual and transformative. The guides from Nomadic Plan were incredibly helpful and knowledgeable. Nitin was there checking on everyone, which made us feel safe and cared for.",
     image: "",
     highlight: "",
     rating: 5,
@@ -165,7 +165,7 @@ const testimonials = [
     location: "",
     trip: "",
     quote:
-      "Nitin and his team nailed it! From planning to execution, the Ladakh bike trip was seamless. We had the best views, smooth coordination, and great vibes throughout. Looking forward to more trips with Stories by Foot.",
+      "Nitin and his team nailed it! From planning to execution, the Ladakh bike trip was seamless. We had the best views, smooth coordination, and great vibes throughout. Looking forward to more trips with Nomadic Plan.",
     image: "",
     highlight: "",
     rating: 5,
@@ -176,7 +176,7 @@ const testimonials = [
     location: "",
     trip: "",
     quote:
-      "I've done many trips, but this Ladakh ride was special. The guides were extremely helpful, and our group felt like a family. Would 100% recommend Stories by Foot if you're looking for something real and adventurous!",
+      "I've done many trips, but this Ladakh ride was special. The guides were extremely helpful, and our group felt like a family. Would 100% recommend Nomadic Plan if you're looking for something real and adventurous!",
     image: "",
     highlight: "",
     rating: 5,
@@ -187,7 +187,7 @@ const testimonials = [
     location: "",
     trip: "",
     quote:
-      "Absolutely mind-blowing experience! Riding through the high passes of Ladakh with Stories by Foot was a dream come true. Everything was well-organized—from accommodations to food. Hats off to the team!",
+      "Absolutely mind-blowing experience! Riding through the high passes of Ladakh with Nomadic Plan was a dream come true. Everything was well-organized—from accommodations to food. Hats off to the team!",
     image: "",
     highlight: "",
     rating: 5,
@@ -254,7 +254,7 @@ const TestimonialsPage = () => {
                   Real voices from trails, passes, and river bends
                 </h1>
                 <p className="text-lg text-muted-foreground max-w-2xl">
-                  Hear from the explorers who trusted StoriesByFoot to plan their next adventure. Every itinerary is handcrafted, every safety net is tested, and every memory is unforgettable.
+                  Hear from the explorers who trusted Nomadic Plan to plan their next adventure. Every itinerary is handcrafted, every safety net is tested, and every memory is unforgettable.
                 </p>
                 <div className="flex flex-wrap items-center gap-6">
                   <div>
@@ -314,7 +314,7 @@ const TestimonialsPage = () => {
             </div>
             <div className="flex items-center gap-3">
               <Badge className="bg-primary/15 text-primary border border-primary/20 px-4 py-2 text-sm">
-                98% would recommend StoriesByFoot
+                98% would recommend Nomadic Plan
               </Badge>
               {totalPages > 1 && (
                 <div className="flex items-center gap-1">
