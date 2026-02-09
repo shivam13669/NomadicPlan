@@ -13,8 +13,8 @@ const Footer = () => {
             {/* Brand */}
             <div className="lg:col-span-1">
               <div className="flex items-center space-x-2 mb-6">
-                <img src="https://cdn.builder.io/api/v1/image/assets%2Fde743b16560c4ea5a4a46e65a2543876%2F4be0568d99d2469baa7ef6c274a8a1b2?format=webp&width=800" alt="StoriesByFoot logo" className="h-12 w-auto" />
-                <span className="text-2xl font-bold text-white">StoriesBy<span className="text-secondary">Foot</span></span>
+                <img src="https://cdn.builder.io/api/v1/image/assets%2Fde743b16560c4ea5a4a46e65a2543876%2F4be0568d99d2469baa7ef6c274a8a1b2?format=webp&width=800" alt="Nomadic Plan logo" className="h-12 w-auto" />
+                <span className="text-2xl font-bold text-white">Nomadic<span className="text-secondary">Plan</span></span>
               </div>
               <p className="text-white/80 mb-6 leading-relaxed">
                 Your gateway to extraordinary adventures. We create unforgettable experiences that connect you with nature and push your boundaries.
@@ -138,7 +138,7 @@ const Footer = () => {
         <div className="border-t border-white/20 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-white/60 text-sm">
-              © 2026 StoriesByFoot. All rights reserved.
+              © 2026 Nomadic Plan. All rights reserved.
             </div>
             <div className="flex space-x-6 text-sm">
               <Link to="/privacy-policy" className="text-white/60 hover:text-adventure-gold transition-colors">Privacy Policy</Link>
