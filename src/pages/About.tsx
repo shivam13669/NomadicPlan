@@ -37,7 +37,7 @@ export default function AboutPage() {
             <article className="md:col-span-2 space-y-4">
               <h2 className="text-2xl font-semibold text-slate-800">Our Story</h2>
               <p className="text-slate-600 leading-relaxed">
-                StoriesByFoot was <strong>founded in October 2020</strong> with one guiding idea: travel is more than places it’s the stories you collect on the road. We specialise in expertly guided motorbike and 4x4 expeditions across breathtaking regions such as <strong>Ladakh</strong>, <strong>Zanskar</strong>, <strong>Meghalaya</strong>, <strong>Tawang</strong> (Arunachal Pradesh), <strong>Bhutan</strong>, and <strong>Upper Mustang (Nepal)</strong>.
+                Nomadic Plan was <strong>founded in October 2020</strong> with one guiding idea: travel is more than places it’s the stories you collect on the road. We specialise in expertly guided motorbike and 4x4 expeditions across breathtaking regions such as <strong>Ladakh</strong>, <strong>Zanskar</strong>, <strong>Meghalaya</strong>, <strong>Tawang</strong> (Arunachal Pradesh), <strong>Bhutan</strong>, and <strong>Upper Mustang (Nepal)</strong>.
               </p>
 
               <p className="text-slate-600 leading-relaxed">
