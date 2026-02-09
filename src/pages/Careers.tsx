@@ -492,7 +492,7 @@ export default function CareersPage() {
               asChild
               className="sm:w-auto bg-white text-emerald-700 hover:bg-slate-100 font-semibold px-8"
             >
-              <a href="mailto:careersnomadplan@gmail.com">Send Resume</a>
+              <a href="mailto:careerstoriesbyfoot@gmail.com">Send Resume</a>
             </Button>
             <Button
               asChild
