@@ -11,17 +11,17 @@ export default function AboutPage() {
           <header className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
             <div>
               <h1 className="text-3xl md:text-4xl font-extrabold leading-tight text-slate-900">
-                About StoriesBy<span className="text-secondary">Foot</span>
+                About Nomadic<span className="text-secondary">Plan</span>
               </h1>
               <p className="mt-3 text-slate-600 max-w-xl">
-                <strong>Founded in October 2020</strong>, StoriesByFoot was built on a simple belief that every journey has a story worth living. We design curated motorbike and 4x4 expeditions that balance thrill, culture, comfort and style for everyone from budget explorers and student groups to families, corporate teams, and luxury travellers.
+                <strong>Founded in October 2020</strong>, Nomadic Plan was built on a simple belief that every journey has a story worth living. We design curated motorbike and 4x4 expeditions that balance thrill, culture, comfort and style for everyone from budget explorers and student groups to families, corporate teams, and luxury travellers.
               </p>
             </div>
             <div className="flex-shrink-0">
               <div className="w-40 h-40 md:w-48 md:h-48 bg-indigo-50 rounded-xl flex items-center justify-center border border-indigo-100 overflow-hidden">
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2Fad0b087d70674186aab7ce88fbaebcd2%2F847e2c571c0047e88f1df62976119300?format=webp&width=800"
-                  alt="StoriesByFoot logo"
+                  alt="Nomadic Plan logo"
                   className="h-24 w-24 object-contain"
                   width={96}
                   height={96}
@@ -31,7 +31,7 @@ export default function AboutPage() {
             </div>
           </header>
 
-          <p className="mt-6 border-l-2 pl-4 italic text-slate-600">Formerly known as <strong>PlanYorTrip</strong>, we rebranded to <strong>StoriesByFoot</strong> to reflect our deeper vision transforming travel into stories that stay with you forever.</p>
+          <p className="mt-6 border-l-2 pl-4 italic text-slate-600">Formerly known as <strong>StoriesByFoot</strong>, we rebranded to <strong>Nomadic Plan</strong> to reflect our deeper vision transforming travel into stories that stay with you forever.</p>
 
           <section className="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
             <article className="md:col-span-2 space-y-4">
@@ -80,7 +80,7 @@ export default function AboutPage() {
               To design authentic, responsible and unforgettable journeys that blend adventure with comfort and cultural depth. Through meticulous planning, trusted local partnerships, and a commitment to safety and sustainability, we create trips that leave lasting impressions.
             </p>
 
-            <h2 className="text-2xl font-semibold text-slate-800">Why Travel with StoriesByFoot</h2>
+            <h2 className="text-2xl font-semibold text-slate-800">Why Travel with Nomadic Plan</h2>
             <ul className="mt-3 grid grid-cols-1 sm:grid-cols-2 gap-3">
               <li className="p-4 bg-white rounded-lg border shadow-sm">
                 <strong className="block text-indigo-700">Adventure with Assurance</strong>
@@ -104,7 +104,7 @@ export default function AboutPage() {
           <footer className="mt-8 border-t pt-6 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
             <div>
               <p className="text-slate-600">✨ <strong>Walk the Road. Live the Story.</strong></p>
-              <p className="text-xs text-slate-400 mt-2">© 2025 StoriesByFoot. All rights reserved.</p>
+              <p className="text-xs text-slate-400 mt-2">© 2025 Nomadic Plan. All rights reserved.</p>
             </div>
 
             <div className="flex gap-3 items-center">
