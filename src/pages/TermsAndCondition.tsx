@@ -19,7 +19,7 @@ export default function TermsAndConditionPage() {
           <article className="prose prose-slate max-w-none space-y-6">
             <section className="space-y-4">
               <p className="text-slate-700 leading-relaxed">
-                Welcome to Nomadic Plan ("we," "our," or "us"). These Terms and Conditions ("Terms") govern your access to and use of our website <a href="https://nomadplan.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">https://nomadplan.com</a> (the "Website") and all related features, services, and content provided by Nomadic Plan (collectively, the "Services").
+                Welcome to Nomadic Plan ("we," "our," or "us"). These Terms and Conditions ("Terms") govern your access to and use of our website <a href="https://www.nomadicplan.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">https://www.nomadicplan.com</a> (the "Website") and all related features, services, and content provided by Nomadic Plan (collectively, the "Services").
               </p>
               <p className="text-slate-700 leading-relaxed">
                 By accessing or using our Website, you agree to comply with and be bound by these Terms. If you do not agree, please refrain from using our Website or Services.
