@@ -27,7 +27,7 @@ const testimonials = [
     location: "New Delhi, India",
     trip: "Ladakh Himalayan Ride",
     quote:
-      "StoriesByFoot turned the intimidating Himalayas into a dream ride. Every halt had hot chai, every route had a backup plan, and they never stopped surprising us with hidden gems.",
+      "Nomadic Plan turned the intimidating Himalayas into a dream ride. Every halt had hot chai, every route had a backup plan, and they never stopped surprising us with hidden gems.",
     image:
       "https://images.unsplash.com/photo-1557053910-d9eadeed1c58?auto=format&fit=crop&w=400&q=80",
     highlight: "Altitude 17,982 ft",
@@ -51,7 +51,7 @@ const testimonials = [
     location: "Mumbai, India",
     trip: "Spiti Valley Convoy",
     quote:
-      "I have done a dozen driving expeditions, but none matched the precision of StoriesByFoot. The lead marshals navigated blizzards like pros and kept morale sky high.",
+      "I have done a dozen driving expeditions, but none matched the precision of Nomadic Plan. The lead marshals navigated blizzards like pros and kept morale sky high.",
     image:
       "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=400&q=80",
     highlight: "12 vehicles in convoy",

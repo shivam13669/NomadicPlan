@@ -161,17 +161,17 @@ const teamMembers = [
   {
     name: "Nitin Mishra",
     role: "Founder, Nomadic Plan",
-    bio: "Visionary explorer and adventure enthusiast who founded StoriesByFoot with a passion to create unforgettable travel experiences and build a team that shares the same spirit."
+    bio: "Visionary explorer and adventure enthusiast who founded Nomadic Plan with a passion to create unforgettable travel experiences and build a team that shares the same spirit."
   },
   {
     name: "Shivam Anand",
     role: "Tech Lead",
-    bio: "Tech innovator building the digital backbone of StoriesByFoot. Passionate about creating seamless experiences that connect adventurers with their next great journey."
+    bio: "Tech innovator building the digital backbone of Nomadic Plan. Passionate about creating seamless experiences that connect adventurers with their next great journey."
   },
   {
     name: "Aaditi",
     role: "Head of Sales",
-    bio: "Dynamic sales leader driving growth and building lasting relationships with adventurers worldwide. Passionate about sharing StoriesByFoot's mission and creating exceptional customer experiences."
+    bio: "Dynamic sales leader driving growth and building lasting relationships with adventurers worldwide. Passionate about sharing Nomadic Plan's mission and creating exceptional customer experiences."
   }
 ];
 
