@@ -11,7 +11,7 @@ import { useCurrency, parsePrice } from "@/context/CurrencyContext";
 import { formatDate, startOfDay } from "date-fns";
 
 // EmailJS Credentials
-const EMAILJS_SERVICE_ID = 'storiesbyfoot';
+const EMAILJS_SERVICE_ID = 'nomadplan';
 const EMAILJS_TEMPLATE_ID = 'template_5tfzp06';
 const EMAILJS_PUBLIC_KEY = 'JH95W_X6r4YZ6I_-0';
 

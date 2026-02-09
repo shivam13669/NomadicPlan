@@ -420,7 +420,7 @@ export const LoginModal = ({ isOpen, onClose }: LoginModalProps) => {
 
                     {/* Terms Text */}
                     <p className="text-xs text-gray-500 text-center mt-4">
-                      By continuing, you agree to StoriesByFoot's{" "}
+                      By continuing, you agree to Nomadic Plan's{" "}
                       <a href="/terms-and-condition" className="text-orange-600 hover:underline">
                         Terms & Conditions
                       </a>
@@ -799,7 +799,7 @@ export const LoginModal = ({ isOpen, onClose }: LoginModalProps) => {
 
                     {/* Terms Text */}
                     <p className="text-xs text-gray-500 text-center mt-4">
-                      By continuing, you agree to StoriesByFoot's{" "}
+                      By continuing, you agree to Nomadic Plan's{" "}
                       <a href="/terms-and-condition" className="text-orange-600 hover:underline">
                         Terms & Conditions
                       </a>
@@ -894,7 +894,7 @@ export const LoginModal = ({ isOpen, onClose }: LoginModalProps) => {
 
                 {/* Terms Text */}
                 <p className="text-xs text-gray-500 text-center mt-4">
-                  By continuing, you agree to StoriesByFoot's{" "}
+                  By continuing, you agree to Nomadic Plan's{" "}
                   <a href="/terms-and-condition" className="text-orange-600 hover:underline">
                     Terms & Conditions
                   </a>
