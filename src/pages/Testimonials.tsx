@@ -277,7 +277,7 @@ const TestimonialsPage = () => {
                 <CardHeader className="space-y-2">
                   <CardTitle className="text-2xl font-semibold">Featured Story</CardTitle>
                   <p className="text-sm text-muted-foreground">
-                    “We were constantly chasing horizons, but StoriesByFoot always stayed one curve ahead with support and warmth.”
+                    “We were constantly chasing horizons, but Nomadic Plan always stayed one curve ahead with support and warmth.”
                   </p>
                 </CardHeader>
                 <CardContent className="flex flex-col gap-4">
@@ -296,7 +296,7 @@ const TestimonialsPage = () => {
                     <Badge variant="secondary">Offbeat homestays</Badge>
                   </div>
                   <p className="text-sm leading-relaxed text-muted-foreground">
-                    “My crew captured rhinos at dawn while the StoriesByFoot team handled logistics, permits, and local storytellers. I never imagined adventure travel could feel this effortless.”
+                    “My crew captured rhinos at dawn while the Nomadic Plan team handled logistics, permits, and local storytellers. I never imagined adventure travel could feel this effortless.”
                   </p>
                 </CardContent>
               </Card>
