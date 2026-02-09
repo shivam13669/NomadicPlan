@@ -87,7 +87,7 @@ const testimonials = [
     location: "Delhi, India",
     trip: "Northeast Stories Trail",
     quote:
-      "As a travel writer, I've explored many regions, but the storytelling approach of StoriesByFoot was exceptional. They don't just guide you through destinations, they unveil the soul of each place through authentic local connections.",
+      "As a travel writer, I've explored many regions, but the storytelling approach of Nomadic Plan was exceptional. They don't just guide you through destinations, they unveil the soul of each place through authentic local connections.",
     image:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=400&q=80",
     highlight: "Culture-immersive journey",
