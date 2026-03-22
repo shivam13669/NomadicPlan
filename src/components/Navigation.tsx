@@ -5,7 +5,7 @@ import { Button } from "./ui/button";
 import { CurrencyPicker } from "./CurrencyPicker";
 import { LoginModal } from "./LoginModal";
 import { useCurrency } from "@/context/CurrencyContext";
-import  logoImage  from "@/assets/nomadicplan_logo.png";
+import  logoImage  from "@/assets/nomadicplan_logo_bw.png"; 
 
 const navItems = [
   { name: "Home", to: "/", type: "route" as const },
