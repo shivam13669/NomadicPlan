@@ -26,7 +26,7 @@ const Footer = () => {
                   </a>
                 </Button>
                 <Button asChild variant="ghost" size="icon" className="text-white hover:text-adventure-gold hover:bg-white/10">
-                  <a href="https://www.instagram.com/storiesbyfoot/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                  <a href="https://www.instagram.com/nomadic.plan/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
                     <Instagram className="h-5 w-5" />
                   </a>
                 </Button>
@@ -108,13 +108,15 @@ const Footer = () => {
 
                 <span className="inline-flex items-center mr-4">
                   <MailIcon className="h-5 w-5 text-adventure-gold flex-shrink-0 mr-2" />
-                  <a href="mailto:contact@storiesbyfoot.com" className="hover:underline" aria-label="Email contact@storiesbyfoot.com">contact@storiesbyfoot.com</a>
+                  <a href="mailto:nomadicplan.com@gmail.com" className="hover:underline" aria-label="Email nomadicplan.com@gmail.com">nomadicplan.com@gmail.com</a>
                 </span>
 
+                {/*
                 <span className="inline-flex items-center">
                   <MailIcon className="h-5 w-5 text-adventure-gold flex-shrink-0 mr-2" />
                   <a href="mailto:storiesbyfoot@gmail.com" className="hover:underline" aria-label="Email storiesbyfoot@gmail.com">storiesbyfoot@gmail.com</a>
                 </span>
+                */}
               </div>
 
               <div className="mt-6">
