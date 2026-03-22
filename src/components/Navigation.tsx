@@ -27,7 +27,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between gap-3 h-16">
           {/* Logo */}
           <Link to="/" onClick={() => setIsOpen(false)} className="flex items-center gap-2 min-w-0 no-underline">
-            <img src={logoImage} alt="NomadicPlan logo" className="h-9 w-auto sm:h-10" />
+            <img src={logoImage} alt="NomadicPlan_logo" className="h-9 w-auto sm:h-10" />
             <span className="text-base sm:text-lg md:text-xl font-bold leading-tight text-white">
               Nomadic<span className="text-secondary">Plan</span>
             </span>
