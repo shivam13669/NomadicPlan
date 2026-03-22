@@ -111,11 +111,13 @@ const Footer = () => {
                   <a href="mailto:nomadicplan.com@gmail.com" className="hover:underline" aria-label="Email nomadicplan.com@gmail.com">nomadicplan.com@gmail.com</a>
                 </span>
 
-                {/*  <span className="inline-flex items-center">
-                <MailIcon className="h-5 w-5 text-adventure-gold flex-shrink-0 mr-2" />
-                  <a href="mailto:nomadicplan.com@gmail.com" className="hover:underline" aria-label="Email nomadicplan.com@gmail.com">nomadicplan.com@gmail.com</a>
+                {/*
+                <span className="inline-flex items-center">
+                  <MailIcon className="h-5 w-5 text-adventure-gold flex-shrink-0 mr-2" />
+                  <a href="mailto:storiesbyfoot@gmail.com" className="hover:underline" aria-label="Email storiesbyfoot@gmail.com">storiesbyfoot@gmail.com</a>
                 </span>
-              </div> */}
+                */}
+              </div>
 
               <div className="mt-6">
                 <h4 className="font-semibold mb-3">Subscribe to Newsletter</h4>
